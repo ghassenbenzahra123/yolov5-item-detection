@@ -1,0 +1,24 @@
+
+<annotation>
+    <folder>images</folder>
+    <filename>Clothing495.png</filename>
+    <size>
+        <width>169</width>
+        <height>220</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>Shirts</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>21</xmin>
+            <ymin>48</ymin>
+            <xmax>151</xmax>
+            <ymax>180</ymax>
+        </bndbox>
+    </object>
+</annotation>
